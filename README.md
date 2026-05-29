@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**22victoriousaura/22victoriousaura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Juan Jinshu
 
-Here are some ideas to get you started:
+Hi there! I am a tech and coding enthusiast based in the UK. I love exploring new technologies, writing clean code, and building software from scratch.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+Right now, I am focused on **app building**. I am learning how to design user interfaces and write the logic that powers modern applications.
+
+## 🛠️ Tech Stack & Skills
+* **Interests:** Software Engineering, Mobile App Development, and Technology
+* **Platforms:** GitHub, iOS, and Open Source
+
+## 📂 Featured Projects
+* **[Orbitity Framework]** - A project focused on to make apps easily, with the help of electron..
+
+---
+*This profile showcases verified open-source and software development work by Juan Jinshu.*
